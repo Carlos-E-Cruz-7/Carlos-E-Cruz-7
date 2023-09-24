@@ -1,5 +1,8 @@
 ### Hi there 👋, my name is Carlos E. Cruz
 #### I am an Electrical Engineer
+![Banner_Github](https://github.com/Carlos-E-Cruz-7/Carlos-E-Cruz-7/assets/109989193/ec7c87c7-3829-480b-9300-58a5685d7271)
+
+
 I'm a passionate Electrical Engineer currently pursuing my master's degree in integrated circuits and systems at Columbia University. 🎓 My journey began at Stony Brook University, where I earned my Bachelor's in Electrical Engineering.
 
 🎯 Objective:
