@@ -24,7 +24,7 @@ If you're as enthusiastic about the limitless possibilities of electrical engine
 
 Skills: VLSI / FPGA / Embedded Systems / PCB 
 
-- 🔭 I’m currently working on my M.S. degree in Electrical Engineering 
+- 🔭 I’m currently working on my M.S. degree in Electrical Engineering at Columbia University.
 - 📫 How to reach me: carlose_cruz7@hotmail.com 
 
 
