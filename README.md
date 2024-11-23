@@ -6,7 +6,8 @@
 
 I'm a Reliability Engineer working in the semiconductor industry. I graduated from Columbia University with a Master Of Science degree in Electrical Engineering specialized in Integrated Circuits and Systems. My journey began at Stony Brook University, where I earned my Bachelor's in Electrical Engineering.
 
-🌟 Interests:
+Interests:
+
 I am interested in hardware AI accelerators, FPGAs, digital IC design, computer architecture, and embedded systems, with a focus on developing innovative solutions at the intersection of hardware and AI.
 
 Skills: VLSI / FPGA / Embedded Systems  
